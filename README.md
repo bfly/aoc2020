@@ -1,7 +1,7 @@
 # [Advent of Code 2020](https://adventofcode.com/2020)
 
-![](https://img.shields.io/badge/day%20-6-blue)
-![](https://img.shields.io/badge/stars%20⭐-12-yellow)
+![](https://img.shields.io/badge/day%20-7-blue)
+![](https://img.shields.io/badge/stars%20⭐-14-yellow)
 ### PROGRESS
 
 | Day | Name                                                       | Solution | Stars Earned |
@@ -12,7 +12,7 @@
 | 04  | [Passport Processing](https://adventofcode.com/2020/day/4) | [04](04) |      ★★      |
 | 05  | [Binary Boarding](https://adventofcode.com/2020/day/5)     | [05](05) |      ★★      |
 | 06  | [Custom Customs](https://adventofcode.com/2020/day/6)      | [06](06) |      ★★      |
-| 07  |                                                            | [07](07) |      ☆☆      |
+| 07  | [Handy Haversacks](https://adventofcode.com/2020/day/7)    | [07](07) |      ★★      |
 | 08  |                                                            | [08](08) |      ☆☆      |
 | 09  |                                                            | [09](09) |      ☆☆      |
 | 10  |                                                            | [10](10) |      ☆☆      |
