@@ -1,7 +1,7 @@
 # [Advent of Code 2020](https://adventofcode.com/2020)
 
-![](https://img.shields.io/badge/day%20-9-blue)
-![](https://img.shields.io/badge/stars%20⭐-18-yellow)
+![](https://img.shields.io/badge/day%20-10-blue)
+![](https://img.shields.io/badge/stars%20⭐-20-yellow)
 
 ### PROGRESS
 
@@ -16,7 +16,7 @@
 | 07 | [Handy Haversacks](https://adventofcode.com/2020/day/7)    | [07](07) |      ★★      |
 | 08 | [Handheld Halting](https://adventofcode.com/2020/day/8)    | [08](08) |      ★★      |
 | 09 | [Ecoding Errors](https://adventofcode.com/2020/day/9)      | [09](09) |      ★★      |
-| 10 |                                                            | [10](10) |      ☆☆      |
+| 10 | [Ecoding Errors](https://adventofcode.com/2020/day/10)     | [10](10) |      ★★      |
 | 11 |                                                            | [11](11) |      ☆☆      |
 | 12 |                                                            | [12](12) |      ☆☆      |
 | 13 |                                                            | [13](13) |      ☆☆      |
