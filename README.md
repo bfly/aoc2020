@@ -1,7 +1,7 @@
 # [Advent of Code 2020](https://adventofcode.com/2020)
 
-![](https://img.shields.io/badge/day%20-12-blue)
-![](https://img.shields.io/badge/stars%20⭐-24-yellow)
+![](https://img.shields.io/badge/day%20-13-blue)
+![](https://img.shields.io/badge/stars%20⭐-26-yellow)
 
 ### PROGRESS
 
@@ -19,7 +19,7 @@
 | 10 | [Adapter Array](https://adventofcode.com/2020/day/10)      | [10](10) |      ★★      |
 | 11 | [Seating System](https://adventofcode.com/2020/day/11)     | [11](11) |      ★★      |
 | 12 | [Rain Risk](https://adventofcode.com/2020/day/12)          | [12](12) |      ★★      |
-| 13 |                                                            | [13](13) |      ☆☆      |
+| 13 | [Shuttle Search](https://adventofcode.com/2020/day/13)     | [13](13) |      ★★      |
 | 14 |                                                            | [14](14) |      ☆☆      |
 | 15 |                                                            | [15](15) |      ☆☆      |
 | 16 |                                                            | [16](16) |      ☆☆      |
