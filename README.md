@@ -1,7 +1,7 @@
 # [Advent of Code 2020](https://adventofcode.com/2020)
 
-![](https://img.shields.io/badge/day%20-17-blue)
-![](https://img.shields.io/badge/stars%20⭐-34-yellow)
+![](https://img.shields.io/badge/day%20-18-blue)
+![](https://img.shields.io/badge/stars%20⭐-36-yellow)
 
 ### PROGRESS
 
@@ -23,8 +23,8 @@
 | 14 | [Docking Data](https://adventofcode.com/2020/day/14)            | [14](14) |      ★★      |
 | 15 | [Rambunctious Recitation](https://adventofcode.com/2020/day/15) | [15](15) |      ★★      |
 | 16 | [Ticket Translation](https://adventofcode.com/2020/day/16)      | [16](16) |      ★★      |
-| 17 | [Conway Cubess](https://adventofcode.com/2020/day/17)           | [17](17) |      ★★      |
-| 18 |                                                                 | [18](18) |      ☆☆      |
+| 17 | [Conway Cubes](https://adventofcode.com/2020/day/17)            | [17](17) |      ★★      |
+| 18 | [Operation Order](https://adventofcode.com/2020/day/18)         | [18](18) |      ★★      |
 | 19 |                                                                 | [19](19) |      ☆☆      |
 | 20 |                                                                 | [20](20) |      ☆☆      |
 | 21 |                                                                 | [21](21) |      ☆☆      |
@@ -32,4 +32,4 @@
 | 23 |                                                                 | [23](23) |      ☆☆      |
 | 24 |                                                                 | [24](24) |      ☆☆      |
 | 25 |                                                                 | [25](25) |      ☆☆      |
->>>>>>>
+
