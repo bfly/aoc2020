@@ -68,7 +68,7 @@ def part2(_passports):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day4/' + _fn) as fi:
         lines = fi.read().splitlines()
 
     passports = part1(lines)

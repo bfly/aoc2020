@@ -20,7 +20,7 @@ def part2(_lines):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day6/' + _fn) as fi:
         lines = fi.read()
 
     print(f'Part 1: Sum of yes answers is {part1(lines)}.')

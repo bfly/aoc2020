@@ -43,7 +43,7 @@ def part2(_lines):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day15/' + _fn) as fi:
         lines = fi.read()
     print()
 

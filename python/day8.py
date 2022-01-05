@@ -81,7 +81,7 @@ def part2(_lines):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day8/' + _fn) as fi:
         lines = fi.read()
 
     print(f'Part 1: The value in the accumulator is {part1(lines)}.')

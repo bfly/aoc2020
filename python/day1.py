@@ -34,7 +34,7 @@ def part2(_lines):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day1/' + _fn) as fi:
         lines = fi.read().splitlines()
 
     print(f'Part 1: {part1(lines)}')  # answer of part one

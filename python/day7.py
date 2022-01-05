@@ -49,7 +49,7 @@ def part2(_lines):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day7/' + _fn) as fi:
         lines = fi.read()
 
     print(f'Part 1: The number of bag colors that eventually contain at least one shiny gold bag is {part1(lines)}.')

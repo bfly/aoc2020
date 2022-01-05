@@ -17,7 +17,7 @@ def validate(_policies):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day2/' + _fn) as fi:
         lines = fi.read()
 
     policies = re.findall(r'(\d+)-(\d+) (\w): (\w+)', lines)

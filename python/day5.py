@@ -21,11 +21,11 @@ def part2(_lines):
         if candidate - 1 not in possible and candidate + 1 not in possible:
             return candidate
     else:
-        raise NotImplementedError('unreachable')
+        return -1
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day5/' + _fn) as fi:
         lines = fi.read().splitlines()
 
     print(f'Part 1: Maximum value is {part1(lines)}')

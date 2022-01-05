@@ -35,7 +35,7 @@ def part2(numbers, n=25):
 
 
 def main(_fn, _n):
-    with open(_fn) as fi:
+    with open('../day9/' + _fn) as fi:
         lines = fi.read()
     numbers = [int(line) for line in lines.splitlines()]
 

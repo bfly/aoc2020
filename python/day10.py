@@ -42,7 +42,7 @@ def part2(_numbers):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day10/' + _fn) as fi:
         lines = fi.read()
     numbers = [int(line) for line in lines.splitlines()]
 

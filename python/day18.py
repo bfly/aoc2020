@@ -99,7 +99,7 @@ def part2(_lines):
 
 
 def main(_fn):
-    with open(_fn) as fi:
+    with open('../day18/' + _fn) as fi:
         lines = fi.read()
 
     print(f'Part 1: {part1(lines)}.')
