@@ -1,7 +1,7 @@
 # [Advent of Code 2020](https://adventofcode.com/2020)
 
-![](https://img.shields.io/badge/day%20-20-blue)
-![](https://img.shields.io/badge/stars%20⭐-40-yellow)
+![](https://img.shields.io/badge/day%20-21-blue)
+![](https://img.shields.io/badge/stars%20⭐-42-yellow)
 
 ### PROGRESS
 
@@ -27,7 +27,7 @@
 | 18 | [Operation Order](https://adventofcode.com/2020/day/18)         | [18](18) |      ★★      |
 | 19 | [Monster Messages](https://adventofcode.com/2020/day/19)        | [19](19) |      ★★      |
 | 20 | [Monster Messages](https://adventofcode.com/2020/day/20)        | [20](20) |      ★★      |
-| 21 |                                                                 | [21](21) |      ☆☆      |
+| 21 | [Allergen Assessment](https://adventofcode.com/2020/day/21)     | [21](21) |      ★★      |
 | 22 |                                                                 | [22](22) |      ☆☆      |
 | 23 |                                                                 | [23](23) |      ☆☆      |
 | 24 |                                                                 | [24](24) |      ☆☆      |
