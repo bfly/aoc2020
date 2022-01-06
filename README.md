@@ -1,7 +1,7 @@
 # [Advent of Code 2020](https://adventofcode.com/2020)
 
-![](https://img.shields.io/badge/day%20-22-blue)
-![](https://img.shields.io/badge/stars%20⭐-44-yellow)
+![](https://img.shields.io/badge/day%20-23-blue)
+![](https://img.shields.io/badge/stars%20⭐-46-yellow)
 
 ### PROGRESS
 
@@ -29,7 +29,7 @@
 | 20 | [Monster Messages](https://adventofcode.com/2020/day/20)        | [20](20) |      ★★      |
 | 21 | [Allergen Assessment](https://adventofcode.com/2020/day/21)     | [21](21) |      ★★      |
 | 22 | [Crab Combat](https://adventofcode.com/2020/day/22)             | [22](22) |      ★★      |
-| 23 |                                                                 | [23](23) |      ☆☆      |
+| 23 | [Crab Cups](https://adventofcode.com/2020/day/23)               | [23](23) |      ★★      |
 | 24 |                                                                 | [24](24) |      ☆☆      |
 | 25 |                                                                 | [25](25) |      ☆☆      |
 
