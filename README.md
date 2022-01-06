@@ -1,7 +1,7 @@
 # [Advent of Code 2020](https://adventofcode.com/2020)
 
-![](https://img.shields.io/badge/day%20-24-blue)
-![](https://img.shields.io/badge/stars%20⭐-48-yellow)
+![](https://img.shields.io/badge/day%20-25-blue)
+![](https://img.shields.io/badge/stars%20⭐-50-yellow)
 
 ### PROGRESS
 
@@ -31,5 +31,5 @@
 | 22 | [Crab Combat](https://adventofcode.com/2020/day/22)             | [22](22) |      ★★      |
 | 23 | [Crab Cups](https://adventofcode.com/2020/day/23)               | [23](23) |      ★★      |
 | 24 | [Lobby Layout](https://adventofcode.com/2020/day/24)            | [24](24) |      ★★      |
-| 25 |                                                                 | [25](25) |      ☆☆      |
+| 25 | [Combo Breaker](https://adventofcode.com/2020/day/25)           | [25](25) |      ★★      |
 
